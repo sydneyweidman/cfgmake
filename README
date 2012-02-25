@@ -1,4 +1,6 @@
+
 * cfgmake
 
 A django application to generate various system configuration files
-from templates. This project was created to help me learn django.
+from templates. This project was created to help me learn django and
+git.
